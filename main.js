@@ -3196,177 +3196,23 @@ var items = [
          }
       ]
    },
-   {
-      "listing_id":189331499,
-      "state":"active",
-      "user_id":35525928,
-      "category_id":69153737,
-      "title":"Dragon Hair Bows Inheritance Cycle Eragon Inspired",
-      "description":"Six lovely bows, inspired by the Inheritance Cycle dragons (and dragons in general). Each bow features a vibrant 3D scale pattern with a shiny dragon&#39;s eye charm in the center. All bows will come with a french barrette; alligator clips are not strong enough to carry the bow. This bow is NOT waterproof. Dragon-inspired bows do NOT produce fire.\r\n\r\nThese bows take about a week longer to process than a regular bow due to the insane amounts of detail.\r\n\r\n*To make the bows easy to reference, I&#39;ve assigned a name to each one. Below are descriptions.*\r\nTHORN- Deep red scales and a fiery red eye\r\nGLAEDR- Shimmery red scales and an amber eye\r\nSHURIKEN- The largest bow, deep black scales and an icy blue eye\r\nSAPHIRA- Light blue scales and an entrancing deep blue eye\r\nUMAROTH- Off-white scales and a forest green eye\r\nFIREN- Shimmery green scales and an amber eye",
-      "creation_tsz":1399908048,
-      "ending_tsz":1410535248,
-      "original_creation_tsz":1399908048,
-      "last_modified_tsz":1399908048,
-      "price":"8.00",
-      "currency_code":"USD",
-      "quantity":12,
-      "tags":[
-         "dragon",
-         "dragon hair bow",
-         "snake hair bow",
-         "game of thrones",
-         "inheritance cycle",
-         "eragon",
-         "saphira",
-         "shurikan",
-         "thorn",
-         "glaedr",
-         "arya",
-         "snake",
-         "scales"
-      ],
-      "category_path":[
-         "Accessories",
-         "Hair"
-      ],
-      "category_path_ids":[
-         69150467,
-         69153737
-      ],
-      "materials":[
-
-      ],
-      "shop_section_id":15434978,
-      "featured_rank":null,
-      "state_tsz":1399908048,
-      "url":"https:\/\/www.etsy.com\/listing\/189331499\/dragon-hair-bows-inheritance-cycle?utm_source=etsybrowser&utm_medium=api&utm_campaign=api",
-      "views":1,
-      "num_favorers":0,
-      "shipping_template_id":null,
-      "processing_min":10,
-      "processing_max":15,
-      "who_made":"i_did",
-      "is_supply":"false",
-      "when_made":"made_to_order",
-      "is_private":false,
-      "recipient":null,
-      "occasion":null,
-      "style":null,
-      "non_taxable":false,
-      "is_customizable":true,
-      "is_digital":false,
-      "file_data":"",
-      "language":"en-US",
-      "has_variations":true,
-      "used_manufacturer":false,
-      "Images":[
-         {
-            "listing_image_id":601451559,
-            "hex_code":"A48A6C",
-            "red":164,
-            "green":138,
-            "blue":108,
-            "hue":32,
-            "saturation":34,
-            "brightness":64,
-            "is_black_and_white":false,
-            "creation_tsz":1399908048,
-            "listing_id":189331499,
-            "rank":1,
-            "url_75x75":"https:\/\/img1.etsystatic.com\/044\/0\/8660646\/il_75x75.601451559_h8mj.jpg",
-            "url_170x135":"https:\/\/img1.etsystatic.com\/044\/0\/8660646\/il_170x135.601451559_h8mj.jpg",
-            "url_570xN":"https:\/\/img1.etsystatic.com\/044\/0\/8660646\/il_570xN.601451559_h8mj.jpg",
-            "url_fullxfull":"https:\/\/img1.etsystatic.com\/044\/0\/8660646\/il_fullxfull.601451559_h8mj.jpg",
-            "full_height":1125,
-            "full_width":1500
-         },
-         {
-            "listing_image_id":601450003,
-            "hex_code":"A6836D",
-            "red":166,
-            "green":131,
-            "blue":109,
-            "hue":23,
-            "saturation":34,
-            "brightness":65,
-            "is_black_and_white":false,
-            "creation_tsz":1399908048,
-            "listing_id":189331499,
-            "rank":2,
-            "url_75x75":"https:\/\/img1.etsystatic.com\/026\/0\/8660646\/il_75x75.601450003_airb.jpg",
-            "url_170x135":"https:\/\/img1.etsystatic.com\/026\/0\/8660646\/il_170x135.601450003_airb.jpg",
-            "url_570xN":"https:\/\/img1.etsystatic.com\/026\/0\/8660646\/il_570xN.601450003_airb.jpg",
-            "url_fullxfull":"https:\/\/img1.etsystatic.com\/026\/0\/8660646\/il_fullxfull.601450003_airb.jpg",
-            "full_height":1125,
-            "full_width":1500
-         },
-         {
-            "listing_image_id":601449849,
-            "hex_code":"9B8F7C",
-            "red":155,
-            "green":143,
-            "blue":124,
-            "hue":37,
-            "saturation":20,
-            "brightness":60,
-            "is_black_and_white":false,
-            "creation_tsz":1399908048,
-            "listing_id":189331499,
-            "rank":3,
-            "url_75x75":"https:\/\/img1.etsystatic.com\/029\/0\/8660646\/il_75x75.601449849_qw41.jpg",
-            "url_170x135":"https:\/\/img1.etsystatic.com\/029\/0\/8660646\/il_170x135.601449849_qw41.jpg",
-            "url_570xN":"https:\/\/img1.etsystatic.com\/029\/0\/8660646\/il_570xN.601449849_qw41.jpg",
-            "url_fullxfull":"https:\/\/img1.etsystatic.com\/029\/0\/8660646\/il_fullxfull.601449849_qw41.jpg",
-            "full_height":1125,
-            "full_width":1500
-         },
-         {
-            "listing_image_id":601449993,
-            "hex_code":"A8977F",
-            "red":168,
-            "green":151,
-            "blue":127,
-            "hue":35,
-            "saturation":24,
-            "brightness":65,
-            "is_black_and_white":false,
-            "creation_tsz":1399908048,
-            "listing_id":189331499,
-            "rank":4,
-            "url_75x75":"https:\/\/img1.etsystatic.com\/041\/0\/8660646\/il_75x75.601449993_m5t4.jpg",
-            "url_170x135":"https:\/\/img1.etsystatic.com\/041\/0\/8660646\/il_170x135.601449993_m5t4.jpg",
-            "url_570xN":"https:\/\/img1.etsystatic.com\/041\/0\/8660646\/il_570xN.601449993_m5t4.jpg",
-            "url_fullxfull":"https:\/\/img1.etsystatic.com\/041\/0\/8660646\/il_fullxfull.601449993_m5t4.jpg",
-            "full_height":1125,
-            "full_width":1500
-         },
-         {
-            "listing_image_id":601449657,
-            "hex_code":"786C50",
-            "red":120,
-            "green":108,
-            "blue":80,
-            "hue":42,
-            "saturation":33,
-            "brightness":47,
-            "is_black_and_white":false,
-            "creation_tsz":1399908048,
-            "listing_id":189331499,
-            "rank":5,
-            "url_75x75":"https:\/\/img1.etsystatic.com\/033\/0\/8660646\/il_75x75.601449657_k6nf.jpg",
-            "url_170x135":"https:\/\/img1.etsystatic.com\/033\/0\/8660646\/il_170x135.601449657_k6nf.jpg",
-            "url_570xN":"https:\/\/img1.etsystatic.com\/033\/0\/8660646\/il_570xN.601449657_k6nf.jpg",
-            "url_fullxfull":"https:\/\/img1.etsystatic.com\/033\/0\/8660646\/il_fullxfull.601449657_k6nf.jpg",
-            "full_height":1125,
-            "full_width":1500
-         }
-      ]
-   }
 ]
-
 items.forEach(function(item){
    $('.content').append('<div style="background-image: url('+ item.Images[0].url_170x135 +')" class="box1"></div>')
 })
+
+$('.box1').click(function(clickitem) {
+   $(this).text("item.price");
+//    $(this).append('<div style="background-image: url('+ clickitem.Images[1].url_170x135 +')" class="box1"></div>')
+})
+
+// $('.box1').hover(function() {
+//    $(this).addClass("contenthover");
+//    $(this).append('<div style="font-size: 20px ></div>')
+//    $(this).text("item.price");
+// })
+
+
 
 
 
