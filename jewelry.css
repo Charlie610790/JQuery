@@ -23,8 +23,8 @@ a:hover, a:visited, a:link, a:active
 .content {
 	display: inline-block;
 	float: right;
-	min-width: 950px; 
-	max-width: 950px;
+	min-width: 960px; 
+	max-width: 960px;
 }
 
 .sidebar {
