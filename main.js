@@ -3222,6 +3222,17 @@ $('.box1').mouseout(function() {
   $(this).text("");
 });
 
+// $(document).ready(function() {
+//    $('.box1').hover(
+//       function(){
+//          $(this).find('.caption').fadeIn(250);
+//       },
+//       function(){
+//          $(this).find('.caption').fadeOut(250);
+//       }
+//    );
+// });
+
 // $('.box1').ready(function() {
 //    $('.box1').hover(
 //       function(){
