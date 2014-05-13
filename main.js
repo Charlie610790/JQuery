@@ -3201,12 +3201,34 @@ items.forEach(function(item){
    $('.content').append('<div style="background-image: url('+ item.Images[0].url_170x135 +')" class="box1"></div>')
 })
 
-$('.box1').click(function(clickitem) {
-   $(this).text("item.price");
-//    $(this).append('<div style="background-image: url('+ clickitem.Images[1].url_170x135 +')" class="box1"></div>')
-})
-// $('.box1').hover(function() {
-//    $(this).addClass("contenthover");
-//    $(this).append('<div style="font-size: 20px ></div>')
+// $('.box1').click(function(clickitem) {
 //    $(this).text("item.price");
+// //    $(this).append('<div style="background-image: url('+ clickitem.Images[1].url_170x135 +')" class="box1"></div>')
 // })
+$('.box1').hover(function() {
+    var item = items.map(function(item) 
+  {
+    return item.price;
+  })
+
+   $(this).addClass("contenthover");
+   $(this).text("Title Goes Here");
+   $(this).css("font-size", $(this).val() + "30px");
+   $(this).css("text-align", $(this).val() + "right");
+
+});
+
+$('.box1').mouseout(function() {
+  $(this).text("");
+});
+
+// $('.box1').ready(function() {
+//    $('.box1').hover(
+//       function(){
+//          $(this).find('.caption').fadeIn(250);
+//       },
+//       function(){
+//          $(this).find('.caption').fadeOut(250);
+//       }
+//    );
+//    });

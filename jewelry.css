@@ -23,7 +23,6 @@ a:hover, a:visited, a:link, a:active
 .content {
 	display: inline-block;
 	float: right;
-	width: 950px;
 	min-width: 950px; 
 	max-width: 950px;
 }
