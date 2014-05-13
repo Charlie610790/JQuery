@@ -1,6 +1,7 @@
 body {
 	background-color: #030102;
 }
+
 .container {
 	min-width: 960px;
 }
@@ -16,7 +17,6 @@ body {
 
 .contenttext {
 	text-align: right;
-
 }
 
 .content {
@@ -30,10 +30,140 @@ body {
 .sidebar {
 	background-color: #581315;
 	display: inline-block;
-	height: 800px;
-	min-width: 200px;
-	max-width: 200px;
-	
+	float: left;
+	height: 1410px;
+	width:330px;
+}
+
+.button {
+	display: block;
+	background: green;
+	width: 330px;
+	height: 100px;
+	line-height: 42px;
+	text-align: center;
+	font-size: 26px;
+	font-weight: bolder;
+	color: white;
+	font-family: helvetica;
+	text-shadow: 0px -1px 0px black;
+	-webkit-transition: all 0.1s;
+  	-moz-transition: all 0.1s;
+  	-o-transition: all 0.1s;
+	transition: all 0.1s;
+}
+
+.button:hover {
+	background-color: yellow;
+}
+
+.button:active {
+	background-color: red;
+}
+
+.button2 {
+	display: block;
+	background: green;
+	width: 330px;
+	height: 100px;
+	line-height: 42px;
+	text-align: center;
+	font-size: 26px;
+	font-weight: bolder;
+	color: white;
+	font-family: helvetica;
+	text-shadow: 0px -1px 0px black;
+	-webkit-transition: all 0.1s;
+  	-moz-transition: all 0.1s;
+  	-o-transition: all 0.1s;
+	transition: all 0.1s;
+}
+
+.button2:hover {
+	background-color: yellow;
+
+}
+
+.button2:active {
+	background-color: red;
+}
+
+.button3 {
+	display: block;
+	background: green;
+	width: 330px;
+	height: 100px;
+	line-height: 42px;
+	text-align: center;
+	font-size: 26px;
+	font-weight: bolder;
+	color: white;
+	font-family: helvetica;
+	text-shadow: 0px -1px 0px black;
+	-webkit-transition: all 0.1s;
+  	-moz-transition: all 0.1s;
+  	-o-transition: all 0.1s;
+	transition: all 0.1s;
+}
+
+.button3:hover {
+	background-color: yellow;
+}
+
+.button3:active {
+	background-color: red;
+}
+
+.button4 {
+	display: block;
+	background: green;
+	width: 330px;
+	height: 100px;
+	line-height: 42px;
+	text-align: center;
+	font-size: 26px;
+	font-weight: bolder;
+	color: white;
+	font-family: helvetica;
+	text-shadow: 0px -1px 0px black;
+	-webkit-transition: all 0.1s;
+  	-moz-transition: all 0.1s;
+  	-o-transition: all 0.1s;
+	transition: all 0.1s;
+}
+
+.button4:hover {
+	background-color: yellow;
+}
+
+.button4:active {
+	background-color: red;
+}
+
+.button5 {
+	display: block;
+	background: green;
+	width: 330px;
+	height: 100px;
+	line-height: 42px;
+	text-align: center;
+	font-size: 26px;
+	font-weight: bolder;
+	color: white;
+	font-family: helvetica;
+	text-shadow: 0px -1px 0px black;
+	-webkit-transition: all 0.1s;
+  	-moz-transition: all 0.1s;
+  	-o-transition: all 0.1s;
+	transition: all 0.1s;
+}
+
+.button5:hover {
+	background-color: yellow;
+}
+
+.button5:active {
+	background-color: red;
 }
 
 .box1 {

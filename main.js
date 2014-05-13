@@ -3205,35 +3205,8 @@ $('.box1').click(function(clickitem) {
    $(this).text("item.price");
 //    $(this).append('<div style="background-image: url('+ clickitem.Images[1].url_170x135 +')" class="box1"></div>')
 })
-
 // $('.box1').hover(function() {
 //    $(this).addClass("contenthover");
 //    $(this).append('<div style="font-size: 20px ></div>')
 //    $(this).text("item.price");
 // })
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
