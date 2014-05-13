@@ -37,12 +37,12 @@ body {
 
 .button {
 	display: block;
-	background: green;
+	background: linear-gradient(to bottom, rgba(125,126,125,1) 0%,rgba(89,89,89,1) 100%); 
 	width: 330px;
 	height: 100px;
-	line-height: 42px;
+	line-height: 100px;
 	text-align: center;
-	font-size: 26px;
+	font-size: 36px;
 	font-weight: bolder;
 	color: white;
 	font-family: helvetica;
@@ -54,21 +54,27 @@ body {
 }
 
 .button:hover {
-	background-color: yellow;
+	-webkit-filter: brightness(120%); 
+  	-moz-filter: brightness(120%);
+  	-o-filter: brightness(120%);
+	filter: brightness(120%);
 }
 
 .button:active {
-	background-color: red;
+	-webkit-filter: brightness(80%); 
+  	-moz-filter: brightness(80%);
+  	-o-filter: brightness(80%);
+	filter: brightness(80%);
 }
 
 .button2 {
 	display: block;
-	background: green;
+	background: linear-gradient(to bottom, rgba(125,126,125,1) 0%,rgba(89,89,89,1) 100%); 
 	width: 330px;
 	height: 100px;
-	line-height: 42px;
+	line-height: 100px;
 	text-align: center;
-	font-size: 26px;
+	font-size: 36px;
 	font-weight: bolder;
 	color: white;
 	font-family: helvetica;
@@ -80,22 +86,27 @@ body {
 }
 
 .button2:hover {
-	background-color: yellow;
-
+	-webkit-filter: brightness(120%); 
+  	-moz-filter: brightness(120%);
+  	-o-filter: brightness(120%);
+	filter: brightness(120%);
 }
 
 .button2:active {
-	background-color: red;
+	-webkit-filter: brightness(80%); 
+  	-moz-filter: brightness(80%);
+  	-o-filter: brightness(80%);
+	filter: brightness(80%);
 }
 
 .button3 {
 	display: block;
-	background: green;
+	background: linear-gradient(to bottom, rgba(125,126,125,1) 0%,rgba(89,89,89,1) 100%); 
 	width: 330px;
 	height: 100px;
-	line-height: 42px;
+	line-height: 100px;
 	text-align: center;
-	font-size: 26px;
+	font-size: 36px;
 	font-weight: bolder;
 	color: white;
 	font-family: helvetica;
@@ -107,21 +118,27 @@ body {
 }
 
 .button3:hover {
-	background-color: yellow;
+	-webkit-filter: brightness(120%); 
+  	-moz-filter: brightness(120%);
+  	-o-filter: brightness(120%);
+	filter: brightness(120%);
 }
 
 .button3:active {
-	background-color: red;
+	-webkit-filter: brightness(80%); 
+  	-moz-filter: brightness(80%);
+  	-o-filter: brightness(80%);
+	filter: brightness(80%);
 }
 
 .button4 {
 	display: block;
-	background: green;
+	background: linear-gradient(to bottom, rgba(125,126,125,1) 0%,rgba(89,89,89,1) 100%); 
 	width: 330px;
 	height: 100px;
-	line-height: 42px;
+	line-height: 100px;
 	text-align: center;
-	font-size: 26px;
+	font-size: 36px;
 	font-weight: bolder;
 	color: white;
 	font-family: helvetica;
@@ -133,21 +150,27 @@ body {
 }
 
 .button4:hover {
-	background-color: yellow;
+	-webkit-filter: brightness(120%); 
+  	-moz-filter: brightness(120%);
+  	-o-filter: brightness(120%);
+	filter: brightness(120%);
 }
 
 .button4:active {
-	background-color: red;
+	-webkit-filter: brightness(80%); 
+  	-moz-filter: brightness(80%);
+  	-o-filter: brightness(80%);
+	filter: brightness(80%);
 }
 
 .button5 {
 	display: block;
-	background: green;
+	background: linear-gradient(to bottom, rgba(125,126,125,1) 0%,rgba(89,89,89,1) 100%); 
 	width: 330px;
 	height: 100px;
-	line-height: 42px;
+	line-height: 100px;
 	text-align: center;
-	font-size: 26px;
+	font-size: 36px;
 	font-weight: bolder;
 	color: white;
 	font-family: helvetica;
@@ -159,11 +182,17 @@ body {
 }
 
 .button5:hover {
-	background-color: yellow;
+	-webkit-filter: brightness(120%); 
+  	-moz-filter: brightness(120%);
+  	-o-filter: brightness(120%);
+	filter: brightness(120%);
 }
 
 .button5:active {
-	background-color: red;
+	-webkit-filter: brightness(80%); 
+  	-moz-filter: brightness(80%);
+  	-o-filter: brightness(80%);
+	filter: brightness(80%);
 }
 
 .box1 {
